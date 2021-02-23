@@ -1,0 +1,3 @@
+create a variable called finalSum which will hold the result of the function.
+
+create a loop 
